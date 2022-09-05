@@ -43,4 +43,5 @@ public class Project1Lab222 {
         System.out.println("Total Palindromes: " + totalPalindromes);
     }
 //first comment
+// second comment
 }
