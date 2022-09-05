@@ -42,5 +42,5 @@ public class Project1Lab222 {
         } while (line.length() > 0);
         System.out.println("Total Palindromes: " + totalPalindromes);
     }
-
+//first comment
 }
